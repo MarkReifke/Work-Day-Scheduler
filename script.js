@@ -15,7 +15,7 @@ function buildTimeSlot(hour) {
     } else {
         background = "future";
     }
-    var timeSlot = $("<div>")
+    var timeSlots = $("<div>")
         .addClass("row time-block")
         .attr("id", `hour-${hour}`);
     var $hour = $("<div>").addClass("col-md-1 hour").text(formatHour(hour));
@@ -24,7 +24,7 @@ function buildTimeSlot(hour) {
         .addClass("btn saveBtn col-md-1")
         .append($("<i>").addClass("fas fa-save"));   
 
-      return $timeSlot.append($hour, $textarea, $button);      
+      return $timeSlots.append($hour, $textarea, $button);      
 }
 function formatHour(hour){
     if(hour>12) {
