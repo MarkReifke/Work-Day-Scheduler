@@ -1,6 +1,11 @@
 # Work-Day-Scheduler
 
+Click on image to take you to html site
 
+<a href="https://markreifke.github.io/Work-Day-Scheduler/"><img src="scheduler.jpg" alt="scheduler"
+          width="250" height="250"> </a>
+
+https://github.com/MarkReifke/Work-Day-Scheduler
 
 
 05 Third-Party APIs: Work Day Scheduler
