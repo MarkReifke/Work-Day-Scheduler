@@ -20,7 +20,7 @@ function buildTimeSlot(hour) {
      .addClass("row time-block")
    .attr("id", `hour-${hour}`);
    var $hour = $("<div>").addClass("col-md-1 hour").text(formatHour(hour));
-   var $textarea = $("<textarea>").addClass("col-md-10 description" + background);
+   var $textarea = $("<textarea>").addClass("col-md-10 description " + background);
    var $button = $("<button>")
      .addClass("btn saveBtn col-md-1")
      .append($("<i>").addClass("fas fa-save"));   

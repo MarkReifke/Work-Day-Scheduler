@@ -2,15 +2,12 @@
 
 Click on image to take you to html site
 
-<a href="https://markreifke.github.io/Work-Day-Scheduler/"><img src="scheduler.jpg" alt="scheduler"
+<a href="https://markreifke.github.io/Work-Day-Scheduler/"><img src="day scheduler.jpg" alt="scheduler"
           width="250" height="250"> </a>
 
 https://github.com/MarkReifke/Work-Day-Scheduler
 
-I couldnt get the time blocks to get the background colors in it. I tried to trouble shoot it but still couldnt get it to work. Im not sure what
-im doing wrong. In my last assignment I was told to submit the link to my specific repo containing the code but im not sure what link that would be. The two links I am submitting are the two links we were told to use from are instructor when we submit are assignments. So im just confused on what other link it would be that we are to submit. 
-Thanks
-Mark
+
 
 
 05 Third-Party APIs: Work Day Scheduler
